@@ -1,6 +1,5 @@
-console.log('Init Exercices');
+console.log('.at in array');
 
-// at in array 
 const animals = ['animal1', 'animal2', 'animal3']
 
 // get an animal:
@@ -11,4 +10,3 @@ console.log(animals.at(-1));
 
 // get an undefined
 console.log(animals.at(5));
-

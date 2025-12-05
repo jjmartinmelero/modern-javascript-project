@@ -33,7 +33,7 @@ Promise.any([promise4, promise5, promise6])
 
 
 // example with fetch
-// we use the first resolved promise to performance user experience
+// we use the first resolved pgit romise to performance user experience
 // const fetch1 = fetch('https://jsonplaceholder.typicode.com/posts/1');
 // const fetch2 = fetch('https://jsonplaceholder.typicode.com/posts/2');
 // const fetch3 = fetch('https://jsonplaceholder.typicode.com/posts/3');
